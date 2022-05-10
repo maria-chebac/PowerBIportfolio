@@ -44,3 +44,9 @@ https://user-images.githubusercontent.com/83698238/167684001-1686a506-66cf-4e67-
 <h5>Click below to open the dashboard and try it out (or download the .pbix file in this repository)</h5>
 
 [Corporate Employee Evaluation Power BI Dashboard](https://app.powerbi.com/groups/me/reports/b70b2b3d-fe33-4f50-8c5b-33bc6e1b2728/ReportSection)
+
+
+<h2>Find me on LinkedIn</h2>
+
+[![image](https://user-images.githubusercontent.com/83698238/167692513-31997a8c-6f72-4bac-9792-7078c5b927e4.png)](https://www.linkedin.com/in/maria-chebac/)
+       
